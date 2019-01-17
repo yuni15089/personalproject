@@ -1,0 +1,5 @@
+export const CHANGE_USERS_ARRAY = 'CHANGE_USERS_ARRAY'
+export const EXTRACT_DATE = 'EXTRACT_DATE'
+export const INDEX_PROPS = 'INDEX_PROPS'
+export const BUY_TICKETS = 'BUY_TICKETS'
+export const LOGIN_ING_TRUE = 'LOGIN_ING_TRUE'
